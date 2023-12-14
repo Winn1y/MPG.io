@@ -1,0 +1,6 @@
+title: "Multi-view MidiVAE: Fusing Track- and Bar-view Representations for Long Multi-track Symbolic Music Generation"
+description: Submitted to ICASSP 2024
+show_downloads: False
+google_analytics:
+theme: jekyll-theme-slate
+markdown: kramdown
