@@ -1,2 +1,2 @@
-[https://winn1y.github.io/multi_person_gesture_demo/](https://winn1y.github.io/multi_person_gesture_demo/)
+[https://winn1y.github.io/MPG.io/](https://winn1y.github.io/MPG.io/)
 
